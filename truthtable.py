@@ -9,7 +9,8 @@ y= not (a and b)
 
 z= x or y
 
-print z
+print (z)
+
 
 
 
